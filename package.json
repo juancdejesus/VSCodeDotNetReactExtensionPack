@@ -1,0 +1,44 @@
+{
+  "name": "ddactico-dotnet-javascript-dev-pack",
+  "displayName": ".NET Javascript Developer Extensions",
+  "description": "My favorite extensions for .NET, Javascript and Rect Development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "alefragnani.project-manager", 
+    "christian-kohler.npm-intellisense", 
+    "christian-kohler.path-intellisense", 
+    "codezombiech.gitignore", 
+    "dbaeumer.vscode-eslint", 
+    "donjayamanne.git-extension-pack", 
+    "donjayamanne.githistory", 
+    "dsznajder.es7-react-js-snippets", 
+    "eamodio.gitlens", 
+    "esbenp.prettier-vscode", 
+    "ms-dotnettools.csharp", 
+    "ms-dotnettools.vscode-dotnet-runtime", 
+    "ms-mssql.data-workspace-vscode", 
+    "ms-mssql.mssql", 
+    "ms-mssql.sql-bindings-vscode", 
+    "ms-mssql.sql-database-projects-vscode", 
+    "ms-vscode.powershell", 
+    "ms-vscode.vscode-typescript-next", 
+    "PKief.material-icon-theme", 
+    "rahulsahay.Csharp-ASPNETCore", 
+    "stylelint.vscode-stylelint", 
+    "VisualStudioExptTeam.intellicode-api-usage-examples", 
+    "VisualStudioExptTeam.vscodeintellicode", 
+    "xabikos.JavaScriptSnippets", 
+    "xabikos.ReactSnippets", 
+    "ziyasal.vscode-open-in-github"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancdejesus/VSCodeDotNetReactExtensionPack.git"
+  }
+}
